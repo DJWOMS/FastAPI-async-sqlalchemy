@@ -1,0 +1,4 @@
+.idea
+venv
+__pycache__
+sql_app.db
